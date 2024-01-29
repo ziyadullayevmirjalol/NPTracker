@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Tq6X5T3JuyOoeUMaPgCqoYaL3j7gDC08OjwHVn+VQNOwlRLwu/9FBTcCaerf9/qjX4HTBYU7c9xv8WOoxdHGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trash\\source\\repos\\noisyPollutionTracker\\noisyPollutionTracker\\noisyPollutionTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trash\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\trash\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\trash\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

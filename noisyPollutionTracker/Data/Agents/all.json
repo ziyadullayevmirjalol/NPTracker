@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "firstname": "person",
+    "lastname": "personov",
+    "discovered_cities": [
+      {
+        "id": 2,
+        "name": "Los Angeles",
+        "country": "USA",
+        "population": 3990000.0,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+          "Long Beach",
+          "Anaheim",
+          "Santa Ana"
+        ]
+      }
+    ]
+  }
+]

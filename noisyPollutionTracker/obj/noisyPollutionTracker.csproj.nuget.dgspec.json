@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\trash\\source\\repos\\noisyPollutionTracker\\noisyPollutionTracker\\noisyPollutionTracker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\trash\\source\\repos\\noisyPollutionTracker\\noisyPollutionTracker\\noisyPollutionTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trash\\source\\repos\\noisyPollutionTracker\\noisyPollutionTracker\\noisyPollutionTracker.csproj",
+        "projectName": "noisyPollutionTracker",
+        "projectPath": "C:\\Users\\trash\\source\\repos\\noisyPollutionTracker\\noisyPollutionTracker\\noisyPollutionTracker.csproj",
+        "packagesPath": "C:\\Users\\trash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trash\\source\\repos\\noisyPollutionTracker\\noisyPollutionTracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.48.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
